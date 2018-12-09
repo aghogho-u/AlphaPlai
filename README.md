@@ -13,4 +13,4 @@ export { KEY }
 If you haven't already, run `npm install`, then `npm create-react-app`, then `create react app {your app}`
 
 
-Finally, before your run npm build when the project is finished, edit the package.json file `header`  
+Finally, before you run npm build when the project is finished, edit the package.json file `homepage`  to your own domain
